@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "nom": "service1",
+      "code": 1
+    },
+    {
+      "nom": "service2",
+      "code": 2
+    },
+    {
+      "nom": "service3",
+      "code": 3
+    }
+  ]
+}

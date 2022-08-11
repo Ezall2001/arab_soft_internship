@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "nom": "armen",
+      "prenom": "bakir",
+      "matricule": 1,
+      "role": "e",
+      "username": "armenbakir",
+      "password": "armen_bakir",
+      "codeService": 1
+    },
+    {
+      "nom": "kais",
+      "prenom": "bakir",
+      "matricule": 2,
+      "role": "e",
+      "username": "kaisbakir",
+      "password": "kais_bakir",
+      "codeService": 1
+    },
+    {
+      "nom": "henedi",
+      "prenom": "guedria",
+      "matricule": 3,
+      "role": "s",
+      "username": "henediguedria",
+      "password": "henedi_guedria",
+      "codeService": 1
+    },
+    {
+      "nom": "amen",
+      "prenom": "gueni",
+      "matricule": 4,
+      "role": "e",
+      "username": "amengueni",
+      "password": "amen_gueni",
+      "codeService": 2
+    },
+    {
+      "nom": "hieb",
+      "prenom": "guedria",
+      "matricule": 5,
+      "role": "r",
+      "username": "hiebguedria",
+      "password": "hieb_guedria",
+      "codeService": 3
+    }
+  ]
+}
